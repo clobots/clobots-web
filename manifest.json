@@ -1,6 +1,6 @@
 {
-  "name": "clohq-web",
-  "short_name": "clohq-web",
+  "name": "sivahq-web",
+  "short_name": "sivahq-web",
   "start_url": "/",
   "display": "standalone"
 }
