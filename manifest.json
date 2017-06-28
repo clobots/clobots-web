@@ -1,6 +1,6 @@
 {
-  "name": "clohq-web",
-  "short_name": "clohq-web",
+  "name": "clodotai-web",
+  "short_name": "clodotai-web",
   "start_url": "/",
   "display": "standalone"
 }
