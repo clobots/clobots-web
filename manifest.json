@@ -1,6 +1,6 @@
 {
-  "name": "clohq-web",
-  "short_name": "clohq-web",
+  "name": "sivaraga-web",
+  "short_name": "sivaraga-web",
   "start_url": "/",
   "display": "standalone"
 }
